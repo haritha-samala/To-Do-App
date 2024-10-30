@@ -158,7 +158,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Naga Haritha Samala - [(https://www.linkedin.com/in/naga-haritha-samala]
+Linkedin - [https://www.linkedin.com/in/naga-haritha-samala]
 
 Project Link: [https://github.com/haritha-samala/Tood-List-App](https://github.com/haritha-samala/ToDo-List-App)
 
